@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Omar Hassab
+- 👋 Hi, I’m Omar Hassan
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Web Devlopment
 - 📫 How to reach me https://www.linkedin.com/in/omarhassan1997/
